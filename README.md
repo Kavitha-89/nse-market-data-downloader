@@ -48,8 +48,8 @@ nse-market-data-downloader/
     ├── test_downloader.py
     ├── test_storage.py
     └── test_validator.py
-
-## Requirements
+    
+Requirements
 
 Requirements
 Python 3.13+
@@ -57,7 +57,7 @@ requests
 pandas
 pytest
 
-## Install the dependencies with:
+Install the dependencies with:
 
 pip install -r requirements.txt
 Running the Application
@@ -70,7 +70,7 @@ To download only one dataset:
 
 python main.py --dataset top-gainers-losers
 
-## Available dataset options:
+Available dataset options:
 
 top-gainers-losers
 upper-band-hitters
@@ -80,7 +80,7 @@ Data Acquisition
 
 The application communicates with NSE API endpoints rather than manually copying data from web pages.
 
-## The four assignment pages are:
+The four assignment pages are:
 
 Top Gainers / Losers
 Upper Band Hitters
@@ -89,9 +89,9 @@ Volume Gainers / Spurts
 
 The Top Gainers / Losers page contains two datasets, so the application downloads and stores Top Gainers and Top Losers separately.
 
-The NSE API endpoints and configuration are kept in config.py, while the acquisition logic is implemented in src/downloader.py.
+The NSE API endpoints and configuration are kept in config.py, while the acquisition logic is implemented in src/downloader.py
 
-## Validation
+Validation
 
 Downloaded data is validated before it is written to disk.
 
@@ -107,7 +107,7 @@ Duplicate records are detected and removed.
 
 Invalid or unexpected responses are rejected instead of being saved as CSV files.
 
-## Storage
+Storage
 
 CSV files are stored in the data/ directory.
 
@@ -123,7 +123,7 @@ The filename includes the trading date.
 
 If the same dataset is downloaded again on the same day, the existing dated file is overwritten rather than creating multiple confusing copies.
 
-## Error Handling
+Error Handling
 
 The downloader includes:
 
@@ -138,7 +138,7 @@ Each request can be attempted up to three times.
 
 If a dataset fails, the error is logged and processing continues with the remaining datasets.
 
-## Logging
+Logging
 
 Execution logs are written to:
 
@@ -168,7 +168,7 @@ CSV file creation
 Empty-data rejection
 Same-day file handling
 
-## Run the complete test suite with:
+Run the complete test suite with:
 
 python -m pytest -v
 
@@ -189,7 +189,7 @@ Volume Gainers: 25
 
 These values represent a sample execution and may change depending on the NSE market data available at the time of execution.
 
-## Design
+Design
 
 The project separates responsibilities into different modules:
 
@@ -202,7 +202,7 @@ tests/ — automated tests
 
 This structure keeps acquisition, validation, storage, and application entry-point responsibilities separate and makes the downloader easier to extend.
 
-## Limitations
+Limitations
 The application depends on NSE API availability and response formats.
 NSE API response structures may change in the future.
 The application currently stores CSV files locally.
