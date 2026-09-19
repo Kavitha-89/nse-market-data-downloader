@@ -1,0 +1,223 @@
+2026-09-19 21:51:21,510 | INFO | Starting dataset: Top Gainers
+2026-09-19 21:51:21,511 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=gainers
+2026-09-19 21:51:24,244 | INFO | Request successful: HTTP 200
+2026-09-19 21:51:24,245 | INFO | Top Gainers: downloaded 20 records.
+2026-09-19 21:51:24,252 | INFO | Top Gainers: validation successful. 20 records, 14 columns.
+2026-09-19 21:51:24,263 | INFO | Top Gainers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-gainers_2026-09-19.csv
+2026-09-19 21:51:24,263 | INFO | Starting dataset: Top Losers
+2026-09-19 21:51:24,264 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=loosers
+2026-09-19 21:51:25,475 | INFO | Request successful: HTTP 200
+2026-09-19 21:51:25,475 | INFO | Top Losers: downloaded 20 records.
+2026-09-19 21:51:25,480 | INFO | Top Losers: validation successful. 20 records, 14 columns.
+2026-09-19 21:51:25,485 | INFO | Top Losers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-losers_2026-09-19.csv
+2026-09-19 21:51:25,486 | INFO | Starting dataset: Upper Band Hitters
+2026-09-19 21:51:25,486 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-price-band-hitter
+2026-09-19 21:51:25,889 | INFO | Request successful: HTTP 200
+2026-09-19 21:51:25,890 | INFO | Upper Band Hitters: downloaded 152 records.
+2026-09-19 21:51:25,895 | INFO | Upper Band Hitters: validation successful. 152 records, 12 columns.
+2026-09-19 21:51:25,906 | INFO | Upper Band Hitters: successfully saved 152 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\upper-band-hitters_2026-09-19.csv
+2026-09-19 21:51:25,907 | INFO | Starting dataset: Volume Gainers
+2026-09-19 21:51:25,908 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-volume-gainers
+2026-09-19 21:51:26,088 | INFO | Request successful: HTTP 200
+2026-09-19 21:51:26,089 | INFO | Volume Gainers: downloaded 25 records.
+2026-09-19 21:51:26,105 | INFO | Volume Gainers: validation successful. 25 records, 10 columns.
+2026-09-19 21:51:26,117 | INFO | Volume Gainers: successfully saved 25 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\volume-gainers_2026-09-19.csv
+2026-09-19 21:51:26,119 | INFO | Starting dataset: 52 Week High
+2026-09-19 21:51:26,120 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-data-52weekhighstock
+2026-09-19 21:51:26,300 | INFO | Request successful: HTTP 200
+2026-09-19 21:51:26,302 | INFO | 52 Week High: downloaded 113 records.
+2026-09-19 21:51:26,317 | INFO | 52 Week High: validation successful. 113 records, 10 columns.
+2026-09-19 21:51:26,324 | INFO | 52 Week High: successfully saved 113 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\52-week-high_2026-09-19.csv
+2026-09-19 21:51:26,325 | INFO | All selected datasets completed successfully.
+2026-09-19 21:51:32,455 | INFO | Starting dataset: Volume Gainers
+2026-09-19 21:51:32,456 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-volume-gainers
+2026-09-19 21:51:33,766 | INFO | Request successful: HTTP 200
+2026-09-19 21:51:33,767 | INFO | Volume Gainers: downloaded 25 records.
+2026-09-19 21:51:33,772 | INFO | Volume Gainers: validation successful. 25 records, 10 columns.
+2026-09-19 21:51:33,779 | INFO | Volume Gainers: successfully saved 25 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\volume-gainers_2026-09-19.csv
+2026-09-19 21:51:33,779 | INFO | All selected datasets completed successfully.
+2026-09-19 22:03:07,501 | INFO | Starting dataset: Top Gainers
+2026-09-19 22:03:07,502 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=gainers
+2026-09-19 22:03:09,604 | INFO | Request successful: HTTP 200
+2026-09-19 22:03:09,605 | INFO | Top Gainers: downloaded 20 records.
+2026-09-19 22:03:09,624 | INFO | Top Gainers: validation successful. 20 records, 14 columns.
+2026-09-19 22:03:09,647 | INFO | Top Gainers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-gainers_2026-09-19.csv
+2026-09-19 22:03:09,648 | INFO | Starting dataset: Top Losers
+2026-09-19 22:03:09,648 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=loosers
+2026-09-19 22:03:09,983 | INFO | Request successful: HTTP 200
+2026-09-19 22:03:09,984 | INFO | Top Losers: downloaded 20 records.
+2026-09-19 22:03:09,990 | INFO | Top Losers: validation successful. 20 records, 14 columns.
+2026-09-19 22:03:09,995 | INFO | Top Losers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-losers_2026-09-19.csv
+2026-09-19 22:03:09,997 | INFO | Starting dataset: Upper Band Hitters
+2026-09-19 22:03:09,997 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-price-band-hitter
+2026-09-19 22:03:10,355 | INFO | Request successful: HTTP 200
+2026-09-19 22:03:10,356 | INFO | Upper Band Hitters: downloaded 152 records.
+2026-09-19 22:03:10,365 | INFO | Upper Band Hitters: validation successful. 152 records, 12 columns.
+2026-09-19 22:03:10,372 | INFO | Upper Band Hitters: successfully saved 152 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\upper-band-hitters_2026-09-19.csv
+2026-09-19 22:03:10,372 | INFO | Starting dataset: Volume Gainers
+2026-09-19 22:03:10,373 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-volume-gainers
+2026-09-19 22:03:10,595 | INFO | Request successful: HTTP 200
+2026-09-19 22:03:10,599 | INFO | Volume Gainers: downloaded 25 records.
+2026-09-19 22:03:10,604 | INFO | Volume Gainers: validation successful. 25 records, 10 columns.
+2026-09-19 22:03:10,608 | INFO | Volume Gainers: successfully saved 25 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\volume-gainers_2026-09-19.csv
+2026-09-19 22:03:10,610 | INFO | Starting dataset: 52 Week High
+2026-09-19 22:03:10,610 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-data-52weekhighstock
+2026-09-19 22:03:10,824 | INFO | Request successful: HTTP 200
+2026-09-19 22:03:10,833 | INFO | 52 Week High: downloaded 113 records.
+2026-09-19 22:03:10,840 | INFO | 52 Week High: validation successful. 113 records, 10 columns.
+2026-09-19 22:03:10,845 | INFO | 52 Week High: successfully saved 113 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\52-week-high_2026-09-19.csv
+2026-09-19 22:03:10,846 | INFO | All selected datasets completed successfully.
+2026-09-19 22:03:14,726 | INFO | Starting dataset: Top Gainers
+2026-09-19 22:03:14,726 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=gainers
+2026-09-19 22:03:15,821 | INFO | Request successful: HTTP 200
+2026-09-19 22:03:15,822 | INFO | Top Gainers: downloaded 20 records.
+2026-09-19 22:03:15,830 | INFO | Top Gainers: validation successful. 20 records, 14 columns.
+2026-09-19 22:03:15,844 | INFO | Top Gainers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-gainers_2026-09-19.csv
+2026-09-19 22:03:15,845 | INFO | Starting dataset: Top Losers
+2026-09-19 22:03:15,845 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=loosers
+2026-09-19 22:03:16,003 | INFO | Request successful: HTTP 200
+2026-09-19 22:03:16,005 | INFO | Top Losers: downloaded 20 records.
+2026-09-19 22:03:16,017 | INFO | Top Losers: validation successful. 20 records, 14 columns.
+2026-09-19 22:03:16,024 | INFO | Top Losers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-losers_2026-09-19.csv
+2026-09-19 22:03:16,024 | INFO | All selected datasets completed successfully.
+2026-09-19 22:03:22,413 | INFO | Starting dataset: Upper Band Hitters
+2026-09-19 22:03:22,414 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-price-band-hitter
+2026-09-19 22:03:23,711 | INFO | Request successful: HTTP 200
+2026-09-19 22:03:23,712 | INFO | Upper Band Hitters: downloaded 152 records.
+2026-09-19 22:03:23,721 | INFO | Upper Band Hitters: validation successful. 152 records, 12 columns.
+2026-09-19 22:03:23,727 | INFO | Upper Band Hitters: successfully saved 152 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\upper-band-hitters_2026-09-19.csv
+2026-09-19 22:03:23,727 | INFO | All selected datasets completed successfully.
+2026-09-19 22:03:28,014 | INFO | Starting dataset: Volume Gainers
+2026-09-19 22:03:28,015 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-volume-gainers
+2026-09-19 22:03:28,928 | INFO | Request successful: HTTP 200
+2026-09-19 22:03:28,928 | INFO | Volume Gainers: downloaded 25 records.
+2026-09-19 22:03:28,939 | INFO | Volume Gainers: validation successful. 25 records, 10 columns.
+2026-09-19 22:03:28,952 | INFO | Volume Gainers: successfully saved 25 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\volume-gainers_2026-09-19.csv
+2026-09-19 22:03:28,952 | INFO | All selected datasets completed successfully.
+2026-09-19 22:03:34,743 | INFO | Starting dataset: 52 Week High
+2026-09-19 22:03:34,744 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-data-52weekhighstock
+2026-09-19 22:03:35,987 | INFO | Request successful: HTTP 200
+2026-09-19 22:03:35,987 | INFO | 52 Week High: downloaded 113 records.
+2026-09-19 22:03:35,997 | INFO | 52 Week High: validation successful. 113 records, 10 columns.
+2026-09-19 22:03:36,003 | INFO | 52 Week High: successfully saved 113 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\52-week-high_2026-09-19.csv
+2026-09-19 22:03:36,003 | INFO | All selected datasets completed successfully.
+2026-09-19 22:13:38,513 | INFO | Starting dataset: Top Gainers
+2026-09-19 22:13:38,514 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=gainers
+2026-09-19 22:13:40,252 | INFO | Request successful: HTTP 200
+2026-09-19 22:13:40,252 | INFO | Top Gainers: downloaded 20 records.
+2026-09-19 22:13:40,284 | INFO | Top Gainers: validation successful. 20 records, 14 columns.
+2026-09-19 22:13:40,293 | INFO | Top Gainers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-gainers_2026-09-19.csv
+2026-09-19 22:13:40,293 | INFO | Starting dataset: Top Losers
+2026-09-19 22:13:40,293 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=loosers
+2026-09-19 22:13:40,459 | INFO | Request successful: HTTP 200
+2026-09-19 22:13:40,460 | INFO | Top Losers: downloaded 20 records.
+2026-09-19 22:13:40,464 | INFO | Top Losers: validation successful. 20 records, 14 columns.
+2026-09-19 22:13:40,467 | INFO | Top Losers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-losers_2026-09-19.csv
+2026-09-19 22:13:40,467 | INFO | Starting dataset: Upper Band Hitters
+2026-09-19 22:13:40,468 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-price-band-hitter
+2026-09-19 22:13:40,970 | INFO | Request successful: HTTP 200
+2026-09-19 22:13:40,970 | INFO | Upper Band Hitters: downloaded 152 records.
+2026-09-19 22:13:40,998 | INFO | Upper Band Hitters: validation successful. 152 records, 12 columns.
+2026-09-19 22:13:41,002 | INFO | Upper Band Hitters: successfully saved 152 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\upper-band-hitters_2026-09-19.csv
+2026-09-19 22:13:41,002 | INFO | Starting dataset: Volume Gainers
+2026-09-19 22:13:41,003 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-volume-gainers
+2026-09-19 22:13:41,110 | INFO | Request successful: HTTP 200
+2026-09-19 22:13:41,110 | INFO | Volume Gainers: downloaded 25 records.
+2026-09-19 22:13:41,114 | INFO | Volume Gainers: validation successful. 25 records, 10 columns.
+2026-09-19 22:13:41,118 | INFO | Volume Gainers: successfully saved 25 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\volume-gainers_2026-09-19.csv
+2026-09-19 22:13:41,119 | INFO | Starting dataset: 52 Week High
+2026-09-19 22:13:41,119 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-data-52weekhighstock
+2026-09-19 22:13:41,275 | INFO | Request successful: HTTP 200
+2026-09-19 22:13:41,276 | INFO | 52 Week High: downloaded 113 records.
+2026-09-19 22:13:41,278 | INFO | 52 Week High: validation successful. 113 records, 10 columns.
+2026-09-19 22:13:41,282 | INFO | 52 Week High: successfully saved 113 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\52-week-high_2026-09-19.csv
+2026-09-19 22:13:41,283 | INFO | All selected datasets completed successfully.
+2026-09-19 22:13:52,720 | INFO | Starting dataset: Top Gainers
+2026-09-19 22:13:52,721 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=gainers
+2026-09-19 22:13:53,508 | INFO | Request successful: HTTP 200
+2026-09-19 22:13:53,508 | INFO | Top Gainers: downloaded 20 records.
+2026-09-19 22:13:53,516 | INFO | Top Gainers: validation successful. 20 records, 14 columns.
+2026-09-19 22:13:53,521 | INFO | Top Gainers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-gainers_2026-09-19.csv
+2026-09-19 22:13:53,521 | INFO | Starting dataset: Top Losers
+2026-09-19 22:13:53,522 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=loosers
+2026-09-19 22:13:53,668 | INFO | Request successful: HTTP 200
+2026-09-19 22:13:53,668 | INFO | Top Losers: downloaded 20 records.
+2026-09-19 22:13:53,674 | INFO | Top Losers: validation successful. 20 records, 14 columns.
+2026-09-19 22:13:53,678 | INFO | Top Losers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-losers_2026-09-19.csv
+2026-09-19 22:13:53,678 | INFO | All selected datasets completed successfully.
+2026-09-19 22:14:29,373 | INFO | Starting dataset: Top Gainers
+2026-09-19 22:14:29,374 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=gainers
+2026-09-19 22:14:30,430 | INFO | Request successful: HTTP 200
+2026-09-19 22:14:30,431 | INFO | Top Gainers: downloaded 20 records.
+2026-09-19 22:14:30,439 | INFO | Top Gainers: validation successful. 20 records, 14 columns.
+2026-09-19 22:14:30,448 | INFO | Top Gainers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-gainers_2026-09-19.csv
+2026-09-19 22:14:30,449 | INFO | Starting dataset: Top Losers
+2026-09-19 22:14:30,450 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=loosers
+2026-09-19 22:14:30,626 | INFO | Request successful: HTTP 200
+2026-09-19 22:14:30,627 | INFO | Top Losers: downloaded 20 records.
+2026-09-19 22:14:30,632 | INFO | Top Losers: validation successful. 20 records, 14 columns.
+2026-09-19 22:14:30,638 | INFO | Top Losers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-losers_2026-09-19.csv
+2026-09-19 22:14:30,639 | INFO | Starting dataset: Upper Band Hitters
+2026-09-19 22:14:30,640 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-price-band-hitter
+2026-09-19 22:14:30,841 | INFO | Request successful: HTTP 200
+2026-09-19 22:14:30,841 | INFO | Upper Band Hitters: downloaded 152 records.
+2026-09-19 22:14:30,844 | INFO | Upper Band Hitters: validation successful. 152 records, 12 columns.
+2026-09-19 22:14:30,849 | INFO | Upper Band Hitters: successfully saved 152 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\upper-band-hitters_2026-09-19.csv
+2026-09-19 22:14:30,850 | INFO | Starting dataset: Volume Gainers
+2026-09-19 22:14:30,851 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-volume-gainers
+2026-09-19 22:14:31,043 | INFO | Request successful: HTTP 200
+2026-09-19 22:14:31,044 | INFO | Volume Gainers: downloaded 25 records.
+2026-09-19 22:14:31,054 | INFO | Volume Gainers: validation successful. 25 records, 10 columns.
+2026-09-19 22:14:31,063 | INFO | Volume Gainers: successfully saved 25 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\volume-gainers_2026-09-19.csv
+2026-09-19 22:14:31,067 | INFO | Starting dataset: 52 Week High
+2026-09-19 22:14:31,070 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-data-52weekhighstock
+2026-09-19 22:14:31,246 | INFO | Request successful: HTTP 200
+2026-09-19 22:14:31,246 | INFO | 52 Week High: downloaded 113 records.
+2026-09-19 22:14:31,251 | INFO | 52 Week High: validation successful. 113 records, 10 columns.
+2026-09-19 22:14:31,254 | INFO | 52 Week High: successfully saved 113 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\52-week-high_2026-09-19.csv
+2026-09-19 22:14:31,255 | INFO | All selected datasets completed successfully.
+2026-09-19 22:14:35,484 | INFO | Starting dataset: Volume Gainers
+2026-09-19 22:14:35,484 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-volume-gainers
+2026-09-19 22:14:36,367 | INFO | Request successful: HTTP 200
+2026-09-19 22:14:36,367 | INFO | Volume Gainers: downloaded 25 records.
+2026-09-19 22:14:36,373 | INFO | Volume Gainers: validation successful. 25 records, 10 columns.
+2026-09-19 22:14:36,380 | INFO | Volume Gainers: successfully saved 25 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\volume-gainers_2026-09-19.csv
+2026-09-19 22:14:36,381 | INFO | All selected datasets completed successfully.
+2026-09-19 22:26:10,839 | INFO | Starting dataset: Top Gainers
+2026-09-19 22:26:10,840 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=gainers
+2026-09-19 22:26:11,973 | INFO | Request successful: HTTP 200
+2026-09-19 22:26:11,974 | INFO | Top Gainers: downloaded 20 records.
+2026-09-19 22:26:12,010 | INFO | Top Gainers: validation successful. 20 records, 14 columns.
+2026-09-19 22:26:12,019 | INFO | Top Gainers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-gainers_2026-09-19.csv
+2026-09-19 22:26:12,019 | INFO | Starting dataset: Top Losers
+2026-09-19 22:26:12,019 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-variations?index=loosers
+2026-09-19 22:26:12,379 | INFO | Request successful: HTTP 200
+2026-09-19 22:26:12,379 | INFO | Top Losers: downloaded 20 records.
+2026-09-19 22:26:12,385 | INFO | Top Losers: validation successful. 20 records, 14 columns.
+2026-09-19 22:26:12,389 | INFO | Top Losers: successfully saved 20 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\top-losers_2026-09-19.csv
+2026-09-19 22:26:12,390 | INFO | Starting dataset: Upper Band Hitters
+2026-09-19 22:26:12,390 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-price-band-hitter
+2026-09-19 22:26:13,096 | INFO | Request successful: HTTP 200
+2026-09-19 22:26:13,097 | INFO | Upper Band Hitters: downloaded 152 records.
+2026-09-19 22:26:13,127 | INFO | Upper Band Hitters: validation successful. 152 records, 12 columns.
+2026-09-19 22:26:13,133 | INFO | Upper Band Hitters: successfully saved 152 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\upper-band-hitters_2026-09-19.csv
+2026-09-19 22:26:13,134 | INFO | Starting dataset: Volume Gainers
+2026-09-19 22:26:13,134 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-volume-gainers
+2026-09-19 22:26:13,327 | INFO | Request successful: HTTP 200
+2026-09-19 22:26:13,327 | INFO | Volume Gainers: downloaded 25 records.
+2026-09-19 22:26:13,330 | INFO | Volume Gainers: validation successful. 25 records, 10 columns.
+2026-09-19 22:26:13,333 | INFO | Volume Gainers: successfully saved 25 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\volume-gainers_2026-09-19.csv
+2026-09-19 22:26:13,333 | INFO | Starting dataset: 52 Week High
+2026-09-19 22:26:13,334 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-data-52weekhighstock
+2026-09-19 22:26:13,531 | INFO | Request successful: HTTP 200
+2026-09-19 22:26:13,532 | INFO | 52 Week High: downloaded 113 records.
+2026-09-19 22:26:13,536 | INFO | 52 Week High: validation successful. 113 records, 10 columns.
+2026-09-19 22:26:13,541 | INFO | 52 Week High: successfully saved 113 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\52-week-high_2026-09-19.csv
+2026-09-19 22:26:13,542 | INFO | All selected datasets completed successfully.
+2026-09-19 22:26:20,809 | INFO | Starting dataset: Volume Gainers
+2026-09-19 22:26:20,809 | INFO | Request attempt 1/3: https://www.nseindia.com/api/live-analysis-volume-gainers
+2026-09-19 22:26:21,695 | INFO | Request successful: HTTP 200
+2026-09-19 22:26:21,696 | INFO | Volume Gainers: downloaded 25 records.
+2026-09-19 22:26:21,704 | INFO | Volume Gainers: validation successful. 25 records, 10 columns.
+2026-09-19 22:26:21,715 | INFO | Volume Gainers: successfully saved 25 records to C:\Users\ADMIN\Documents\nse-market-data-downloader\data\volume-gainers_2026-09-19.csv
+2026-09-19 22:26:21,716 | INFO | All selected datasets completed successfully.
